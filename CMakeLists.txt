@@ -1,5 +1,9 @@
 cmake_minimum_required(VERSION 3.0)
 
+
+
+
+
 if ("${PROJECT_NAME}" STREQUAL "Project")
     set(Tools_Other_Project ON)
 elseif ("${PROJECT_NAME}" STREQUAL "")
